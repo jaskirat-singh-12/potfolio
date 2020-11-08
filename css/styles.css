@@ -1,0 +1,19 @@
+body{
+  background-color: powderblue;
+}
+hr{
+  width: 170px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #060930;
+
+  }
+h1{
+color: #ff5200;
+}
+h2{
+  color: #e71414;
+}
+img{
+  background-color: blue;
+}
